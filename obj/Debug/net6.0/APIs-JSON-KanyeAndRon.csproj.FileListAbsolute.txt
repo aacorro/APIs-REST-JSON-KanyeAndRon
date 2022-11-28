@@ -1,0 +1,17 @@
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\bin\Debug\net6.0\APIs-JSON-KanyeAndRon.exe
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\bin\Debug\net6.0\APIs-JSON-KanyeAndRon.deps.json
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\bin\Debug\net6.0\APIs-JSON-KanyeAndRon.runtimeconfig.json
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\bin\Debug\net6.0\APIs-JSON-KanyeAndRon.dll
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\bin\Debug\net6.0\APIs-JSON-KanyeAndRon.pdb
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\APIs-JSON-KanyeAndRon.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\APIs-JSON-KanyeAndRon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\APIs-JSON-KanyeAndRon.AssemblyInfoInputs.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\APIs-JSON-KanyeAndRon.AssemblyInfo.cs
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\APIs-JSON-KanyeAndRon.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\APIs-JSON-KanyeAndRon.csproj.CopyComplete
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\APIs-JSON-KanyeAndRon.dll
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\refint\APIs-JSON-KanyeAndRon.dll
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\APIs-JSON-KanyeAndRon.pdb
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\APIs-JSON-KanyeAndRon.genruntimeconfig.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs-JSON-KanyeAndRon\obj\Debug\net6.0\ref\APIs-JSON-KanyeAndRon.dll
